@@ -7,8 +7,6 @@
 
 - 🤝 I’m open to **internship opportunities in software development.**
 
-- 💬 Ask me about **coding, front-end development, or anything related!**
-
 - 📫 How to reach me **cjzmimosapudical@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
